@@ -1,0 +1,22 @@
+{
+    "network": {
+        "ssid": "Rizo",
+        "password": "Rizo1234"
+    },
+    "mqtt": {
+        "broker": "2e0044525b804543a6fe6ab2fcadfa2f.s1.eu.hivemq.cloud",
+        "port": 8883,
+        "user": "Rizo_",
+        "pass": "Rizo1234",
+        "client_id": "Brazalete"
+    },
+    "firebase": {
+        "url": "https://brazalete-proyecto-default-rtdb.firebaseio.com/",
+        "token": "eOIin9WsCWOt7exlYebCxeDn5ezByWQzQlX7qoXA"
+    },
+    "safety": {
+        "home_lat": 21.119028,
+        "home_lon": -101.696426,
+        "safe_range_m": 200
+    }
+}
